@@ -7,5 +7,7 @@ This project is a simple Instagram bot designed to scrape information from Insta
 Prerequisites:-
 Before using this project, you need to ensure you have the following prerequisites:  
   1.Python 3 installed on your machine.
+  
   2.Selenium library (selenium) installed. You can install it using pip install selenium
+  
   3.Chrome WebDriver installed. Download it from the official website and make sure it's in your system's PATH.
